@@ -1,0 +1,17 @@
+C:\Users\hbrkic\Desktop\Banka\Banka\bin\Debug\net6.0-windows\Banka.exe
+C:\Users\hbrkic\Desktop\Banka\Banka\bin\Debug\net6.0-windows\Banka.deps.json
+C:\Users\hbrkic\Desktop\Banka\Banka\bin\Debug\net6.0-windows\Banka.runtimeconfig.json
+C:\Users\hbrkic\Desktop\Banka\Banka\bin\Debug\net6.0-windows\Banka.dll
+C:\Users\hbrkic\Desktop\Banka\Banka\bin\Debug\net6.0-windows\Banka.pdb
+C:\Users\hbrkic\Desktop\Banka\Banka\obj\Debug\net6.0-windows\Banka.csproj.AssemblyReference.cache
+C:\Users\hbrkic\Desktop\Banka\Banka\obj\Debug\net6.0-windows\Banka.Form1.resources
+C:\Users\hbrkic\Desktop\Banka\Banka\obj\Debug\net6.0-windows\Banka.csproj.GenerateResource.cache
+C:\Users\hbrkic\Desktop\Banka\Banka\obj\Debug\net6.0-windows\Banka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbrkic\Desktop\Banka\Banka\obj\Debug\net6.0-windows\Banka.AssemblyInfoInputs.cache
+C:\Users\hbrkic\Desktop\Banka\Banka\obj\Debug\net6.0-windows\Banka.AssemblyInfo.cs
+C:\Users\hbrkic\Desktop\Banka\Banka\obj\Debug\net6.0-windows\Banka.csproj.CoreCompileInputs.cache
+C:\Users\hbrkic\Desktop\Banka\Banka\obj\Debug\net6.0-windows\Banka.dll
+C:\Users\hbrkic\Desktop\Banka\Banka\obj\Debug\net6.0-windows\refint\Banka.dll
+C:\Users\hbrkic\Desktop\Banka\Banka\obj\Debug\net6.0-windows\Banka.pdb
+C:\Users\hbrkic\Desktop\Banka\Banka\obj\Debug\net6.0-windows\Banka.genruntimeconfig.cache
+C:\Users\hbrkic\Desktop\Banka\Banka\obj\Debug\net6.0-windows\ref\Banka.dll
